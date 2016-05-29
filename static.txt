@@ -1,0 +1,174 @@
+
+
+
+RVCE RESULT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RVCE RESULTS
+
+
+
+Home
+
+
+Log in
+
+
+
+                  Contact
+                  
+
+
+
+--------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RVCE Provisional Results
+
+
+
+
+ 
+
+
+
+
+
+
+
+Usn
+
+
+
+
+
+
+
+
+
+
+Department
+
+select option 
+Biotechnology
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Electronics and Communication Engineering
+Electrical and Electronics Engineering
+Industrial Engineering and Management
+Information Science and Engineering
+Instrumentation Technology
+Mechanical Engineering
+Telecommunication Engineering
+Aero Space Engineering
+Electronics and Instrumentation
+Architecture
+Electronics and Instrumentation
+
+
+
+
+
+
+
+
+Sem
+
+select option 
+8
+10
+2
+4
+
+
+
+
+
+
+
+
+Year
+
+
+
+
+
+
+
+
+
+
+Reset
+
+
+
+
+
+
+
+
+
+
