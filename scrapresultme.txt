@@ -1,0 +1,7747 @@
+
+USN:
+                    1RV13ME001
+                  
+NAME:
+                    AAMODA HEGDE
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7.92
+                    
+#####################################################################
+USN:
+                    1RV13ME002
+                  
+NAME:
+                    AANAND RISHABH DAGA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    S
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    S
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.35
+                    
+#####################################################################
+USN:
+                    1RV13ME003
+                  
+NAME:
+                    ABDUL REHMAN SADIQ K
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    F
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    D
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      6.62
+                    
+#####################################################################
+USN:
+                    1RV13ME004
+                  
+NAME:
+                    ABHISH KUMAR H
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    C
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    D
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7
+                    
+#####################################################################
+USN:
+                    1RV13ME005
+                  
+NAME:
+                    ABHISHEK G Y
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.38
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME007
+                  
+NAME:
+                    ABIN P VINCENT
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.62
+                    
+#####################################################################
+USN:
+                    1RV13ME008
+                  
+NAME:
+                    ADARSH BASUTKAR
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.42
+                    
+#####################################################################
+USN:
+                    1RV13ME009
+                  
+NAME:
+                    ADHVIK JAGDISH SHETTY
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13ME010
+                  
+NAME:
+                    ADITYA GHODGAONKAR
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.81
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME013
+                  
+NAME:
+                    AISHWARYA JADHAV
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9
+                    
+#####################################################################
+USN:
+                    1RV13ME014
+                  
+NAME:
+                    AJAY KUMAR A
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      8.08
+                    
+#####################################################################
+USN:
+                    1RV13ME015
+                  
+NAME:
+                    AJIT DUNDAPPA CHACHADI
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.27
+                    
+#####################################################################
+USN:
+                    1RV13ME016
+                  
+NAME:
+                    AKSHAY KUMAR P
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9
+                    
+#####################################################################
+USN:
+                    1RV13ME017
+                  
+NAME:
+                    ANIKETH SATYANARAYANA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    C
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.23
+                    
+#####################################################################
+USN:
+                    1RV13ME018
+                  
+NAME:
+                    ANIMESH AGARWAL
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    NSAR
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      6.42
+                    
+#####################################################################
+USN:
+                    1RV13ME019
+                  
+NAME:
+                    ARSAL RASHEED
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    F
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      6.46
+                    
+#####################################################################
+USN:
+                    1RV13ME020
+                  
+NAME:
+                    ASHWIN VENKATARAMAN
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13ME021
+                  
+NAME:
+                    AVINASH SANKAR
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    C
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    D
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7.62
+                    
+#####################################################################
+USN:
+                    1RV13ME022
+                  
+NAME:
+                    B ANKITHA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.08
+                    
+#####################################################################
+USN:
+                    1RV13ME023
+                  
+NAME:
+                    BALABADRA NAGENDRA KUMAR
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.15
+                    
+#####################################################################
+USN:
+                    1RV13ME024
+                  
+NAME:
+                    BHARGAV M BELLE
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    S
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    S
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.42
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME026
+                  
+NAME:
+                    BOPANNA B M
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.42
+                    
+#####################################################################
+USN:
+                    1RV13ME027
+                  
+NAME:
+                    CHAITANYA T
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.38
+                    
+#####################################################################
+USN:
+                    1RV13ME028
+                  
+NAME:
+                    CHANDAN JHA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    C
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    D
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    F
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    E
+                  
+SGPA:
+
+                      5.35
+                    
+#####################################################################
+USN:
+                    1RV13ME029
+                  
+NAME:
+                    CHINMAYA K R
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.31
+                    
+#####################################################################
+USN:
+                    1RV13ME030
+                  
+NAME:
+                    DAVALASABA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    C
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    C
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    C
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      6.96
+                    
+#####################################################################
+USN:
+                    1RV13ME031
+                  
+NAME:
+                    DEEP CHANDAN M C
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    F
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    F
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    F
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    E
+                  
+SGPA:
+
+                      2.88
+                    
+#####################################################################
+USN:
+                    1RV13ME032
+                  
+NAME:
+                    DEEPAK BHAT P
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.69
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME034
+                  
+NAME:
+                    DHRUV AGARWALLA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    NSAR
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    NSAR
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    NSAR
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    NSSR
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    Ab
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    NSSR
+                  
+SGPA:
+
+                      0.81
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME036
+                  
+NAME:
+                    G NAGARAJU
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    E
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    F
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    D
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    C
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    E
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    E
+                  
+SGPA:
+
+                      4.27
+                    
+#####################################################################
+USN:
+                    1RV13ME037
+                  
+NAME:
+                    G ARUN RAHUL
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    S
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.85
+                    
+#####################################################################
+USN:
+                    1RV13ME038
+                  
+NAME:
+                    GAGAN N MURTHY
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    D
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    F
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    C
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    E
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    E
+                  
+SGPA:
+
+                      5.19
+                    
+#####################################################################
+USN:
+                    1RV13ME039
+                  
+NAME:
+                    GAGANDEEP V DAMBAL
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    C
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    C
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7.46
+                    
+#####################################################################
+USN:
+                    1RV13ME040
+                  
+NAME:
+                    GOKUL SURESH
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    C
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      8.08
+                    
+#####################################################################
+USN:
+                    1RV13ME041
+                  
+NAME:
+                    GOVATSA ACHARYA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9
+                    
+#####################################################################
+USN:
+                    1RV13ME042
+                  
+NAME:
+                    GOVINDRAJ D SANNELLAPPANAVAR
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.96
+                    
+#####################################################################
+USN:
+                    1RV13ME043
+                  
+NAME:
+                    HALESH B
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.19
+                    
+#####################################################################
+USN:
+                    1RV13ME044
+                  
+NAME:
+                    HARSHAVARDHAN M
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.08
+                    
+#####################################################################
+USN:
+                    1RV13ME045
+                  
+NAME:
+                    HARSH VARDHAN BAHETI
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    C
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    F
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    E
+                  
+SGPA:
+
+                      5.69
+                    
+#####################################################################
+USN:
+                    1RV13ME046
+                  
+NAME:
+                    HIMANSHU HEGDE
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      7.65
+                    
+#####################################################################
+USN:
+                    1RV13ME047
+                  
+NAME:
+                    HRIDAY GRANDHI
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      8.23
+                    
+#####################################################################
+USN:
+                    1RV13ME048
+                  
+NAME:
+                    JISHNU SINGH
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.5
+                    
+#####################################################################
+USN:
+                    1RV13ME049
+                  
+NAME:
+                    KARTHIK V NAYAK
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME051
+                  
+NAME:
+                    KONERU RAHUL
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.27
+                    
+#####################################################################
+USN:
+                    1RV13ME052
+                  
+NAME:
+                    KOVVURI RAM PRUTHVI REDDY
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      8.65
+                    
+#####################################################################
+USN:
+                    1RV13ME053
+                  
+NAME:
+                    KSHITIZ SWAMY
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    S
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    S
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.31
+                    
+#####################################################################
+USN:
+                    1RV13ME054
+                  
+NAME:
+                    KUDAMALA RAMA MOHAN REDDY
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.42
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME056
+                  
+NAME:
+                    LINGRAJ KHANDRE
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7.96
+                    
+#####################################################################
+USN:
+                    1RV13ME057
+                  
+NAME:
+                    M RAGHAVA REDDY
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    F
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    D
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    C
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    NSSR
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    NSSR
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    F
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    E
+                  
+SGPA:
+
+                      2.5
+                    
+#####################################################################
+USN:
+                    1RV13ME058
+                  
+NAME:
+                    MANJUNATH A
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.69
+                    
+#####################################################################
+USN:
+                    1RV13ME059
+                  
+NAME:
+                    MANUVIJAY N
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    X
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    E
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      6.46
+                    
+#####################################################################
+USN:
+                    1RV13ME060
+                  
+NAME:
+                    MD SHABAAZ
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13ME061
+                  
+NAME:
+                    MUZAKKIR AHMED GHALAWADE
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    S
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      9.04
+                    
+#####################################################################
+USN:
+                    1RV13ME062
+                  
+NAME:
+                    N N SATHYADEEP REDDY
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    NSSR
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    NSAR
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    NSSR
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    NSSR
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    NSSR
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    NSAR
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    NSSR
+                  
+SGPA:
+
+                      0
+                    
+#####################################################################
+USN:
+                    1RV13ME063
+                  
+NAME:
+                    NAGESH
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.69
+                    
+#####################################################################
+USN:
+                    1RV13ME064
+                  
+NAME:
+                    NAGESH P C
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.12
+                    
+#####################################################################
+USN:
+                    1RV13ME065
+                  
+NAME:
+                    NARAHARI PRANAV
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      8.58
+                    
+#####################################################################
+USN:
+                    1RV13ME066
+                  
+NAME:
+                    NARAYANAREDDYGARI RAGHUVAMSIDHAR REDDY
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    S
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      9.08
+                    
+#####################################################################
+USN:
+                    1RV13ME067
+                  
+NAME:
+                    NAVEEN KUMAR
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.12
+                    
+#####################################################################
+USN:
+                    1RV13ME068
+                  
+NAME:
+                    NAVIN KUMAR MAHTO
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.5
+                    
+#####################################################################
+USN:
+                    1RV13ME069
+                  
+NAME:
+                    NIDITH RAI
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13ME070
+                  
+NAME:
+                    NIHAL MOHAN M
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.23
+                    
+#####################################################################
+USN:
+                    1RV13ME071
+                  
+NAME:
+                    NIHAR RANJAN GOUDA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    S
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      9.15
+                    
+#####################################################################
+USN:
+                    1RV13ME072
+                  
+NAME:
+                    NIKHIL HULKUND
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    S
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    S
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.31
+                    
+#####################################################################
+USN:
+                    1RV13ME073
+                  
+NAME:
+                    NIKHIL KUMAR RAI
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    F
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    F
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    F
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    E
+                  
+SGPA:
+
+                      2.96
+                    
+#####################################################################
+USN:
+                    1RV13ME074
+                  
+NAME:
+                    NIKHIL N VARMA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.31
+                    
+#####################################################################
+USN:
+                    1RV13ME075
+                  
+NAME:
+                    NISHANTH T RAO
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    E
+                  
+SGPA:
+
+                      7.38
+                    
+#####################################################################
+USN:
+                    1RV13ME076
+                  
+NAME:
+                    P GOVIND N SHENOY
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13ME077
+                  
+NAME:
+                    PATEL PINAK KAUSHIK
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.42
+                    
+#####################################################################
+USN:
+                    1RV13ME078
+                  
+NAME:
+                    PAVAN KUMAR K
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      7.65
+                    
+#####################################################################
+USN:
+                    1RV13ME079
+                  
+NAME:
+                    PAVAN N
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.77
+                    
+#####################################################################
+USN:
+                    1RV13ME080
+                  
+NAME:
+                    PIYUSH AGRAWAL
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7.88
+                    
+#####################################################################
+USN:
+                    1RV13ME081
+                  
+NAME:
+                    PONNANNA A P
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    S
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.92
+                    
+#####################################################################
+USN:
+                    1RV13ME082
+                  
+NAME:
+                    PRAKHAR DALMIA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    NSAR
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    Ab
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      5.69
+                    
+#####################################################################
+USN:
+                    1RV13ME083
+                  
+NAME:
+                    PRANJAL TYAGI
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    C
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7.88
+                    
+#####################################################################
+USN:
+                    1RV13ME084
+                  
+NAME:
+                    PRASANNA P KULKARNI
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    S
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.96
+                    
+#####################################################################
+USN:
+                    1RV13ME085
+                  
+NAME:
+                    PRASHANT MANNODDAR
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    X
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      6.27
+                    
+#####################################################################
+USN:
+                    1RV13ME086
+                  
+NAME:
+                    PRATEEK GURU
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      7.69
+                    
+#####################################################################
+USN:
+                    1RV13ME087
+                  
+NAME:
+                    RAHUL R BADENKAL
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    X
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.65
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME089
+                  
+NAME:
+                    RAJATH R
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    S
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.15
+                    
+#####################################################################
+USN:
+                    1RV13ME090
+                  
+NAME:
+                    RAJU CHARAKI
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      8.12
+                    
+#####################################################################
+USN:
+                    1RV13ME091
+                  
+NAME:
+                    RAVINDRAKUMAR
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9
+                    
+#####################################################################
+USN:
+                    1RV13ME092
+                  
+NAME:
+                    ROHITH RATHOD
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13ME093
+                  
+NAME:
+                    SAGAR RAICHANDANI
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.69
+                    
+#####################################################################
+USN:
+                    1RV13ME094
+                  
+NAME:
+                    SAGAR SANTRAM PATIL
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.5
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME096
+                  
+NAME:
+                    SAITHJEET SINGH ARORA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.69
+                    
+#####################################################################
+USN:
+                    1RV13ME097
+                  
+NAME:
+                    SANDEEP KRISHNA H
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    X
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.15
+                    
+#####################################################################
+USN:
+                    1RV13ME098
+                  
+NAME:
+                    SANTOSH V N
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.5
+                    
+#####################################################################
+USN:
+                    1RV13ME099
+                  
+NAME:
+                    SETHUPATHI K
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    C
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7.73
+                    
+#####################################################################
+USN:
+                    1RV13ME100
+                  
+NAME:
+                    SHAMVEEL MOHAMMED K
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    C
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.62
+                    
+#####################################################################
+USN:
+                    1RV13ME101
+                  
+NAME:
+                    SHETTY SOHAN JAYAKAR
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    S
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      9.04
+                    
+#####################################################################
+USN:
+                    1RV13ME102
+                  
+NAME:
+                    SHREYAS S R
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    Ab
+                  
+SGPA:
+
+                      7.19
+                    
+#####################################################################
+USN:
+                    1RV13ME103
+                  
+NAME:
+                    SIDDHARTH CHAUDHARY
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    D
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    C
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    D
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    C
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    E
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    F
+                  
+SGPA:
+
+                      5.27
+                    
+#####################################################################
+USN:
+                    1RV13ME104
+                  
+NAME:
+                    SIDDHARTHA SHANKAR
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    D
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    NSAR
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    NSAR
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    NSAR
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    NSSR
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    NSAR
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    E
+                  
+SGPA:
+
+                      1.04
+                    
+#####################################################################
+USN:
+                    1RV13ME105
+                  
+NAME:
+                    SIDDU KRISHNA GEND
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    X
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.46
+                    
+#####################################################################
+USN:
+                    1RV13ME106
+                  
+NAME:
+                    SITHARANJAN S
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    C
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      7.58
+                    
+#####################################################################
+USN:
+                    1RV13ME107
+                  
+NAME:
+                    SMARAN MARGADA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13ME108
+                  
+NAME:
+                    SOMRAJ S
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9
+                    
+#####################################################################
+USN:
+                    1RV13ME109
+                  
+NAME:
+                    SONAL D K
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    S
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.92
+                    
+#####################################################################
+USN:
+                    1RV13ME110
+                  
+NAME:
+                    SOORYA JAGADISH
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13ME111
+                  
+NAME:
+                    SUGREEVA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.38
+                    
+#####################################################################
+USN:
+                    1RV13ME112
+                  
+NAME:
+                    SUMAN KUMAR
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    S
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      9.04
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME114
+                  
+NAME:
+                    SUNAIN AZEEM
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13ME115
+                  
+NAME:
+                    THOSHITH
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    I
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    I
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    I
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    I
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    I
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    I
+                  
+SGPA:
+
+                      0.62
+                    
+#####################################################################
+USN:
+                    1RV13ME116
+                  
+NAME:
+                    TUSHAR SINGH
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    Ab
+                  
+SGPA:
+
+                      7.27
+                    
+#####################################################################
+USN:
+                    1RV13ME117
+                  
+NAME:
+                    UPENDRA B A
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.69
+                    
+#####################################################################
+USN:
+                    1RV13ME118
+                  
+NAME:
+                    VAIBHAV NARAYANASWAMY
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13ME119
+                  
+NAME:
+                    VEDANTH K
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    C
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    X
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    C
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    Ab
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    Ab
+                  
+SGPA:
+
+                      4.23
+                    
+#####################################################################
+USN:
+                    1RV13ME120
+                  
+NAME:
+                    VIANI ANTONIO D CUNHA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      7.5
+                    
+#####################################################################
+USN:
+                    1RV13ME121
+                  
+NAME:
+                    VIKRAM RAJAGOPALAN
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    S
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.19
+                    
+#####################################################################
+USN:
+                    1RV13ME122
+                  
+NAME:
+                    VIREN M PAI
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.08
+                    
+#####################################################################
+USN:
+                    1RV13ME123
+                  
+NAME:
+                    VISHAL K
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.04
+                    
+#####################################################################
+USN:
+                    1RV13ME124
+                  
+NAME:
+                    VISHNUDUTT KADAMBANAT
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.92
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME126
+                  
+NAME:
+                    ZEESHAN AHMED
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    C
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    D
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    C
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    E
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    NSAR
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    E
+                  
+SGPA:
+
+                      5.15
+                    
+#####################################################################
+USN:
+                    1RV13ME127
+                  
+NAME:
+                    SHREYAS SASTRY V M
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13ME128
+                  
+NAME:
+                    SHREYA DAYANAND GUDDIN
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    A
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.12
+                    
+#####################################################################
+USN:
+                    1RV13ME129
+                  
+NAME:
+                    SHANTANU
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    B
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      8.23
+                    
+#####################################################################
+USN:
+                    1RV13ME130
+                  
+NAME:
+                    MANRAAJ SINGH ALAG
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      8.58
+                    
+#####################################################################
+USN:
+                    1RV13ME131
+                  
+NAME:
+                    CHETHAN D
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    B
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    E
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7.77
+                    
+#####################################################################
+USN:
+                    1RV13ME132
+                  
+NAME:
+                    SURAPANENI ANURAG
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    S
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.85
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13ME134
+                  
+NAME:
+                    PRANITH C PRASANNA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    A
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    A
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.69
+                    
+#####################################################################
+USN:
+                    1RV13ME135
+                  
+NAME:
+                    NIKHIL KUMAR GUPTA
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    B
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    F
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    F
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      5.12
+                    
+#####################################################################
+USN:
+                    1RV13ME136
+                  
+NAME:
+
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    F
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    NSAR
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    NSSR
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    C
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    NSSR
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    E
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    E
+                  
+SGPA:
+
+                      2.42
+                    
+#####################################################################
+USN:
+                    1RV13ME137
+                  
+NAME:
+                    ANKIT AGRAWAL
+                  
+BRANCH:
+                    ME
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12ME62
+                  
+                    DESIGN OF MACHINE ELEMENTS II
+                  
+                    D
+                  
+                    12ME63
+                  
+                    DYNAMICS OF MACHINES
+                  
+                    E
+                  
+                    12ME64
+                  
+                    TURBOMACHINERY
+                  
+                    F
+                  
+                    12MEE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    E
+                  
+                    12ME6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12ME6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      4.35
+                    
+#####################################################################
+

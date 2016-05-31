@@ -126,7 +126,6 @@ Telecommunication Engineering
 Aero Space Engineering
 Electronics and Instrumentation
 Architecture
-Electronics and Instrumentation
 
 
 
@@ -142,6 +141,7 @@ select option
 10
 2
 4
+6
 
 
 

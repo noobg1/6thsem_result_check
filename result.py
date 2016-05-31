@@ -18,7 +18,7 @@ def music():
 def music_warning():
 	print "Warning! There is a change in the page!"
 	os.system("start F:/rvceresult/warning.mp3")
-	time.sleep(2)
+	time.sleep(60)
 	
 
 def rv6sem():
@@ -61,9 +61,11 @@ def rv6sem():
 					music()
 			
 
+i = 0
 while(True):
 		rv6sem()
-		print "Keep calm and wait!"
-		time.sleep(5)
+		i = i+1
+		print "Keep calm and wait! " +str(i)
+		time.sleep(60)
 
 

@@ -1,0 +1,7052 @@
+
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV002
+                  
+NAME:
+                    ABHIMAN RATHORE
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    X
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    F
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      5.19
+                    
+#####################################################################
+USN:
+                    1RV13CV003
+                  
+NAME:
+                    ADARSH AGRAWAL
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    TAL
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    TAL
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    NE
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    TAL
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    TAL
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    TAL
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    TAL
+                  
+SGPA:
+
+                      0
+                    
+#####################################################################
+USN:
+                    1RV13CV004
+                  
+NAME:
+                    ADITYA DHRUW
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    F
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    E
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      5.38
+                    
+#####################################################################
+USN:
+                    1RV13CV005
+                  
+NAME:
+                    ADITYA GARG
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.31
+                    
+#####################################################################
+USN:
+                    1RV13CV006
+                  
+NAME:
+                    ADUSUMALLI RAMA KRISHNA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    F
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    F
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    Ab
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    F
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    E
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    E
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      1.5
+                    
+#####################################################################
+USN:
+                    1RV13CV007
+                  
+NAME:
+                    AISHWARYA MANJUNATHA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.62
+                    
+#####################################################################
+USN:
+                    1RV13CV008
+                  
+NAME:
+                    AISHWARYA NAYAK B R
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.08
+                    
+#####################################################################
+USN:
+                    1RV13CV009
+                  
+NAME:
+                    AKSHAY B A
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    S
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    S
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.5
+                    
+#####################################################################
+USN:
+                    1RV13CV010
+                  
+NAME:
+                    AKSHAY SURESH KUMAR SANKLECHA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    TAL
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    TAL
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    TAL
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    TAL
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    TAL
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    TAL
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    TAL
+                  
+SGPA:
+
+                      0
+                    
+#####################################################################
+USN:
+                    1RV13CV011
+                  
+NAME:
+                    AKSHYAKUMAR PATIL
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.12
+                    
+#####################################################################
+USN:
+                    1RV13CV012
+                  
+NAME:
+                    AMAN SHETTY
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    X
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    X
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      5.62
+                    
+#####################################################################
+USN:
+                    1RV13CV013
+                  
+NAME:
+                    AMIT KUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.88
+                    
+#####################################################################
+USN:
+                    1RV13CV014
+                  
+NAME:
+                    AMIT KUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.96
+                    
+#####################################################################
+USN:
+                    1RV13CV015
+                  
+NAME:
+                    AMIT KUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.15
+                    
+#####################################################################
+USN:
+                    1RV13CV016
+                  
+NAME:
+                    AMIT LALASANGI
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.35
+                    
+#####################################################################
+USN:
+                    1RV13CV017
+                  
+NAME:
+                    ANAND KUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    S
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9
+                    
+#####################################################################
+USN:
+                    1RV13CV018
+                  
+NAME:
+                    ANKIT RAJ
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      8.15
+                    
+#####################################################################
+USN:
+                    1RV13CV019
+                  
+NAME:
+                    ANKIT RAVI
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.27
+                    
+#####################################################################
+USN:
+                    1RV13CV020
+                  
+NAME:
+                    ANSHUMAN
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.15
+                    
+#####################################################################
+USN:
+                    1RV13CV021
+                  
+NAME:
+                    ANUJ GANOTRA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    C
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    E
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    E
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    E
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      5.85
+                    
+#####################################################################
+USN:
+                    1RV13CV022
+                  
+NAME:
+                    ANURAAG C
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    D
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      7.62
+                    
+#####################################################################
+USN:
+                    1RV13CV023
+                  
+NAME:
+                    ANURAG GANTA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    C
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    D
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      6.73
+                    
+#####################################################################
+USN:
+                    1RV13CV024
+                  
+NAME:
+                    ANURAG KUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7.35
+                    
+#####################################################################
+USN:
+                    1RV13CV025
+                  
+NAME:
+                    AYUSH BANSAL
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.46
+                    
+#####################################################################
+USN:
+                    1RV13CV026
+                  
+NAME:
+                    BASANAGOUDA PATIL
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8
+                    
+#####################################################################
+USN:
+                    1RV13CV027
+                  
+NAME:
+                    BASIT KHURSHID SHAH
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.81
+                    
+#####################################################################
+USN:
+                    1RV13CV028
+                  
+NAME:
+                    BHARATH KUMAR C
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    D
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    D
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      6.69
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV031
+                  
+NAME:
+                    BHARGAV M R
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    S
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    S
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.42
+                    
+#####################################################################
+USN:
+                    1RV13CV032
+                  
+NAME:
+                    BHARTENDU PRATAP SINGH
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    E
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    NSSR
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    E
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      5.81
+                    
+#####################################################################
+USN:
+                    1RV13CV033
+                  
+NAME:
+                    BIKASH PRATIM DEKA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.77
+                    
+#####################################################################
+USN:
+                    1RV13CV034
+                  
+NAME:
+                    CHANDRA MOULI K S
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    E
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.77
+                    
+#####################################################################
+USN:
+                    1RV13CV035
+                  
+NAME:
+                    CHANDU P
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.08
+                    
+#####################################################################
+USN:
+                    1RV13CV036
+                  
+NAME:
+                    DEEPA G
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.08
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV038
+                  
+NAME:
+                    DEVANSHI AGARWAL
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.65
+                    
+#####################################################################
+USN:
+                    1RV13CV039
+                  
+NAME:
+                    DHRUV AGGARWAL
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    E
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    D
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    C
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    D
+                  
+SGPA:
+
+                      6.12
+                    
+#####################################################################
+USN:
+                    1RV13CV040
+                  
+NAME:
+                    G LOHITH
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.04
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV042
+                  
+NAME:
+                    GURUNANDAN M
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    S
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.35
+                    
+#####################################################################
+USN:
+                    1RV13CV043
+                  
+NAME:
+                    GURUSANGAMESH BAGEWADI
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.42
+                    
+#####################################################################
+USN:
+                    1RV13CV044
+                  
+NAME:
+                    H ABILASH
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7.88
+                    
+#####################################################################
+USN:
+                    1RV13CV045
+                  
+NAME:
+                    HANUMANTHARAYA J
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.19
+                    
+#####################################################################
+USN:
+                    1RV13CV046
+                  
+NAME:
+                    HARISH GOWDA S
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.19
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV048
+                  
+NAME:
+                    HARSHIT P JAIN
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.38
+                    
+#####################################################################
+USN:
+                    1RV13CV049
+                  
+NAME:
+                    HEMANTH KUMAR R
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.42
+                    
+#####################################################################
+USN:
+                    1RV13CV050
+                  
+NAME:
+                    HIMANSHU NAVNEET
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.19
+                    
+#####################################################################
+USN:
+                    1RV13CV051
+                  
+NAME:
+                    HRUDAY PATIL
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.15
+                    
+#####################################################################
+USN:
+                    1RV13CV052
+                  
+NAME:
+                    JOYAL ABHISHEK D SOUZA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    X
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      6.62
+                    
+#####################################################################
+USN:
+                    1RV13CV053
+                  
+NAME:
+                    JUGATI VINAY DEVANAND
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.35
+                    
+#####################################################################
+USN:
+                    1RV13CV054
+                  
+NAME:
+                    K VIKRAM SINGH
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    E
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    F
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    D
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      5.27
+                    
+#####################################################################
+USN:
+                    1RV13CV055
+                  
+NAME:
+                    KABBERU VIJAY
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    X
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      6.5
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV057
+                  
+NAME:
+                    KIRAN S MATTIHALLI
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.62
+                    
+#####################################################################
+USN:
+                    1RV13CV058
+                  
+NAME:
+                    KISHAN KUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.04
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV060
+                  
+NAME:
+                    KUMAR RISHABH
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    C
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    F
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      5.77
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV062
+                  
+NAME:
+                    KUNDAN PRASAD
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.54
+                    
+#####################################################################
+USN:
+                    1RV13CV063
+                  
+NAME:
+                    M MANOJ KUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.62
+                    
+#####################################################################
+USN:
+                    1RV13CV064
+                  
+NAME:
+                    M RAHUL KUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    NSSR
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    NSSR
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      5.42
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV066
+                  
+NAME:
+                    MALLOTHU ABHILASH
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    E
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    F
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    F
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      4.08
+                    
+#####################################################################
+USN:
+                    1RV13CV067
+                  
+NAME:
+                    MAMATHA G
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.08
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV069
+                  
+NAME:
+                    MATRU PRASAD NANDA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.5
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV071
+                  
+NAME:
+                    MD DAWUD
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.88
+                    
+#####################################################################
+USN:
+                    1RV13CV072
+                  
+NAME:
+                    MD SAIFUDDIN
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.58
+                    
+#####################################################################
+USN:
+                    1RV13CV073
+                  
+NAME:
+                    MD TOUSEEF AHMED
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.08
+                    
+#####################################################################
+USN:
+                    1RV13CV074
+                  
+NAME:
+                    MOHAMED ARZOO ABDUL LATHEEF
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.12
+                    
+#####################################################################
+USN:
+                    1RV13CV075
+                  
+NAME:
+                    MOHAMED IHTESHAM S A
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    D
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    F
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    D
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      5.27
+                    
+#####################################################################
+USN:
+                    1RV13CV076
+                  
+NAME:
+                    MOHAMMAD RAFI
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13CV077
+                  
+NAME:
+                    MOHAMMED AHMED
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    X
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      6.77
+                    
+#####################################################################
+USN:
+                    1RV13CV078
+                  
+NAME:
+                    MOHAMMED MAZHARUDDIN
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.23
+                    
+#####################################################################
+USN:
+                    1RV13CV079
+                  
+NAME:
+                    MOHAMMED WAQAR YOUNUS QURESHI
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    C
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.62
+                    
+#####################################################################
+USN:
+                    1RV13CV080
+                  
+NAME:
+                    MUHAMMAD ZAID HASAN
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    NSAR
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    NSAR
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    NSAR
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    NSAR
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    NSAR
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    NSAR
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    NSAR
+                  
+SGPA:
+
+                      0
+                    
+#####################################################################
+USN:
+                    1RV13CV081
+                  
+NAME:
+                    NAGARJUN REDDY
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.19
+                    
+#####################################################################
+USN:
+                    1RV13CV082
+                  
+NAME:
+                    NARENDRA B HAMPOLE
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    F
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      6.58
+                    
+#####################################################################
+USN:
+                    1RV13CV083
+                  
+NAME:
+                    NAVNEET VERMA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.15
+                    
+#####################################################################
+USN:
+                    1RV13CV084
+                  
+NAME:
+                    NAVYASHREE R
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.19
+                    
+#####################################################################
+USN:
+                    1RV13CV085
+                  
+NAME:
+                    NIKHILREDDY
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    C
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    F
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    D
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    D
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      5.31
+                    
+#####################################################################
+USN:
+                    1RV13CV086
+                  
+NAME:
+                    NIVEDITHA N R
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    S
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    S
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.54
+                    
+#####################################################################
+USN:
+                    1RV13CV087
+                  
+NAME:
+                    P SATHISH KUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.19
+                    
+#####################################################################
+USN:
+                    1RV13CV088
+                  
+NAME:
+                    PAVAN DODAMANI
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.23
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV090
+                  
+NAME:
+                    PRASHANT
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.38
+                    
+#####################################################################
+USN:
+                    1RV13CV091
+                  
+NAME:
+                    PRATUL N NEMA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.96
+                    
+#####################################################################
+USN:
+                    1RV13CV092
+                  
+NAME:
+                    PUNEETH K
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.12
+                    
+#####################################################################
+USN:
+                    1RV13CV093
+                  
+NAME:
+                    RAMACHANDRA RAO KATTA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.92
+                    
+#####################################################################
+USN:
+                    1RV13CV094
+                  
+NAME:
+                    RAMESH BOMMANALLI
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.08
+                    
+#####################################################################
+USN:
+                    1RV13CV095
+                  
+NAME:
+                    RANJITH H O
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    S
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.23
+                    
+#####################################################################
+USN:
+                    1RV13CV096
+                  
+NAME:
+                    RISHI RAJ KASHYAP
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.81
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV098
+                  
+NAME:
+                    RITU S P
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    D
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    C
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.04
+                    
+#####################################################################
+USN:
+                    1RV13CV099
+                  
+NAME:
+                    S NAGENDRA ABINAVA VARMA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.96
+                    
+#####################################################################
+USN:
+                    1RV13CV100
+                  
+NAME:
+                    SACHIN T M
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    C
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.23
+                    
+#####################################################################
+USN:
+                    1RV13CV101
+                  
+NAME:
+                    SANTOSH M
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    F
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      6.35
+                    
+#####################################################################
+USN:
+                    1RV13CV102
+                  
+NAME:
+                    SARADARALI MUJAVAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.88
+                    
+#####################################################################
+USN:
+                    1RV13CV103
+                  
+NAME:
+                    SATYAPRIYA MAURYA
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      7.77
+                    
+#####################################################################
+USN:
+                    1RV13CV104
+                  
+NAME:
+                    SHANU KUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV106
+                  
+NAME:
+                    SHIVAM SANOO
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.08
+                    
+#####################################################################
+USN:
+                    1RV13CV107
+                  
+NAME:
+                    SHOBHIT JAIN
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    S
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.04
+                    
+#####################################################################
+USN:
+                    1RV13CV108
+                  
+NAME:
+                    SHRAVAN
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    D
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.5
+                    
+#####################################################################
+USN:
+                    1RV13CV109
+                  
+NAME:
+                    SHREENIDHI R
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13CV110
+                  
+NAME:
+                    SRUTHI K S
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.04
+                    
+#####################################################################
+USN:
+                    1RV13CV111
+                  
+NAME:
+                    SUDARSHANA V
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.58
+                    
+#####################################################################
+USN:
+                    1RV13CV112
+                  
+NAME:
+                    SUNILKUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    S
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    S
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.38
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV115
+                  
+NAME:
+                    TADH TOK CAMDIR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    D
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    NSSR
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    D
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    D
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    C
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    D
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      4.62
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV117
+                  
+NAME:
+                    UJWAL KUMAR SONI
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    A
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.08
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV119
+                  
+NAME:
+                    VARUN B M
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    C
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    C
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.77
+                    
+#####################################################################
+USN:
+                    1RV13CV120
+                  
+NAME:
+                    VEERSHETTY
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    D
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.81
+                    
+#####################################################################
+USN:
+                    1RV13CV121
+                  
+NAME:
+                    VENKAT AKHIL K
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    F
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      6.23
+                    
+#####################################################################
+USN:
+                    1RV13CV122
+                  
+NAME:
+                    VENKATESH PRASAD S
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    S
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.85
+                    
+#####################################################################
+USN:
+                    1RV13CV123
+                  
+NAME:
+                    VIKUONUO KRAHO
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    B
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    F
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      6.65
+                    
+#####################################################################
+USN:
+                    1RV13CV124
+                  
+NAME:
+                    VINEET SINGH TOMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.69
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CV126
+                  
+NAME:
+                    AVINASH KUMAR
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    C
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    NSSR
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    E
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    C
+                  
+SGPA:
+
+                      5.42
+                    
+#####################################################################
+USN:
+                    1RV13CV127
+                  
+NAME:
+                    SHASHANK
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    NSSR
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    F
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    NSSR
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      3.54
+                    
+#####################################################################
+USN:
+                    1RV13CV128
+                  
+NAME:
+                    KAVYASHREE K
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    S
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.65
+                    
+#####################################################################
+USN:
+                    1RV13CV129
+                  
+NAME:
+                    VINEETH M
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    C
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    A
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.19
+                    
+#####################################################################
+USN:
+                    1RV13CV130
+                  
+NAME:
+                    NAMRATA JOSHI
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    A
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    B
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    B
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.42
+                    
+#####################################################################
+USN:
+                    1RV13CV131
+                  
+NAME:
+                    VASANTA KUMAR RATHOD
+                  
+BRANCH:
+                    CV
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    NSAR
+                  
+                    12CV62
+                  
+                    HYDROLOGY AND IRRIGATION
+                  
+                    NSAR
+                  
+                    12CV63
+                  
+                    GEOTECHNICAL ENGINEERING
+                  
+                    NSAR
+                  
+                    12CV64
+                  
+                    DESIGN AND DRAWING OF STEEL STRUCTURES
+                  
+                    NSAR
+                  
+                    12CVE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    NSAR
+                  
+                    12CV6CX
+                  
+                    ELECTIVE C
+                  
+                    NSAR
+                  
+                    12CV6DX
+                  
+                    ELECTIVE D
+                  
+                    NSAR
+                  
+SGPA:
+
+                      0
+                    
+#####################################################################

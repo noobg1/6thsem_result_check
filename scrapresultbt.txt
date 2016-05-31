@@ -1,0 +1,2604 @@
+
+USN:
+                    1RV13BT001
+                  
+NAME:
+                    ABHIJEET SALI
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.81
+                    
+#####################################################################
+USN:
+                    1RV13BT002
+                  
+NAME:
+                    AIYAPPA M P
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    B
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    B
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.08
+                    
+#####################################################################
+USN:
+                    1RV13BT003
+                  
+NAME:
+                    AMITHA SUPRAGNA SANDUR
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.08
+                    
+#####################################################################
+USN:
+                    1RV13BT004
+                  
+NAME:
+                    ANJALI SHENOY
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    S
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    S
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.54
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13BT006
+                  
+NAME:
+                    ANUSHA KISHORE
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13BT009
+                  
+NAME:
+                    ASHWINI RANGARAJ
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.08
+                    
+#####################################################################
+USN:
+                    1RV13BT010
+                  
+NAME:
+                    BHARGAV D SANKETI
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    S
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    S
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    S
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.73
+                    
+#####################################################################
+USN:
+                    1RV13BT011
+                  
+NAME:
+                    BHAVYA JOJANE
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.19
+                    
+#####################################################################
+USN:
+                    1RV13BT012
+                  
+NAME:
+                    CHANDAN M REDDY
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+                    1RV13BT013
+                  
+NAME:
+                    CHINMAY S GUDIGAR
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    B
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    C
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    B
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.77
+                    
+#####################################################################
+USN:
+                    1RV13BT014
+                  
+NAME:
+                    HARSHITHA H I
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    B
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    B
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    B
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.15
+                    
+#####################################################################
+USN:
+                    1RV13BT015
+                  
+NAME:
+                    JIVIKA SAGAR
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    S
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.23
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13BT017
+                  
+NAME:
+                    KRUTIKA PHADKE
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.69
+                    
+#####################################################################
+USN:
+                    1RV13BT018
+                  
+NAME:
+                    KUSHAL N
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    B
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    F
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    B
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    C
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      6.5
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13BT020
+                  
+NAME:
+                    MAHWASH ASHRAFF
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    B
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    B
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.35
+                    
+#####################################################################
+USN:
+                    1RV13BT021
+                  
+NAME:
+                    MOHAMMED JUNAID
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    C
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    C
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    B
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    F
+                  
+SGPA:
+
+                      6.69
+                    
+#####################################################################
+USN:
+                    1RV13BT022
+                  
+NAME:
+                    N S KEERTHI
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.12
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13BT024
+                  
+NAME:
+                    NALINI RAVI
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.04
+                    
+#####################################################################
+USN:
+                    1RV13BT025
+                  
+NAME:
+                    NIKITA J
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    S
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.27
+                    
+#####################################################################
+USN:
+                    1RV13BT026
+                  
+NAME:
+                    NISHITA R RAO
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    B
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    B
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    C
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    B
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    D
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      7.54
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13BT031
+                  
+NAME:
+                    PREETHAM HARI
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9
+                    
+#####################################################################
+USN:
+                    1RV13BT032
+                  
+NAME:
+                    PRIYAM
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.85
+                    
+#####################################################################
+USN:
+                    1RV13BT033
+                  
+NAME:
+                    RAMYA B
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.08
+                    
+#####################################################################
+USN:
+                    1RV13BT034
+                  
+NAME:
+                    REETEE DIXIT
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    B
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.88
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13BT037
+                  
+NAME:
+                    SADHANA S
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    B
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    C
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    B
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8
+                    
+#####################################################################
+USN:
+                    1RV13BT038
+                  
+NAME:
+                    SAHANA R
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    X
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    B
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.23
+                    
+#####################################################################
+USN:
+                    1RV13BT039
+                  
+NAME:
+                    SAKSHI AGRAWAL
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    S
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.19
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13BT041
+                  
+NAME:
+                    SANCHI AHUJA
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    B
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    B
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    B
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.19
+                    
+#####################################################################
+USN:
+                    1RV13BT042
+                  
+NAME:
+                    SANHITA GHOSH
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    B
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.65
+                    
+#####################################################################
+USN:
+                    1RV13BT043
+                  
+NAME:
+                    SAYANTANI DAS
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.81
+                    
+#####################################################################
+USN:
+                    1RV13BT044
+                  
+NAME:
+                    SHARADA GOPAL
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    B
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    B
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      8.46
+                    
+#####################################################################
+USN:
+                    1RV13BT045
+                  
+NAME:
+                    SHARANYA R
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    S
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.19
+                    
+#####################################################################
+USN:
+                    1RV13BT046
+                  
+NAME:
+                    SHREE PADMA M
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    S
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    S
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    S
+                  
+SGPA:
+
+                      9.38
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13BT048
+                  
+NAME:
+                    SIMRAN A SINGH
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    S
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    S
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    S
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.58
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13BT050
+                  
+NAME:
+                    SRIYA SRIRANGARAJAN
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    S
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    S
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.23
+                    
+#####################################################################
+USN:
+                    1RV13BT051
+                  
+NAME:
+                    SUHAS GOWDA N
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    C
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    B
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    B
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    B
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    B
+                  
+SGPA:
+
+                      7.96
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13BT053
+                  
+NAME:
+                    VAISHNAVI B
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    S
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    A
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      9.15
+                    
+#####################################################################
+USN:
+                    1RV13BT054
+                  
+NAME:
+                    VANDANA VIJAI
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    A
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    A
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.85
+                    
+#####################################################################
+USN:
+                    1RV13BT055
+                  
+NAME:
+                    VINEETH HARIPRASAD
+                  
+BRANCH:
+                    BT
+                  
+SEMESTER:
+                    6
+                  
+Grade
+
+                    12HSM61
+                  
+                    MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+                  
+                    A
+                  
+                    12BT62
+                  
+                    GENOMICS AND PROTEOMICS
+                  
+                    B
+                  
+                    12BT63
+                  
+                    PROCESS DYNAMICS AND CONTROL
+                  
+                    B
+                  
+                    12BT64
+                  
+                    MICROBIAL BIOTECHNOLOGY
+                  
+                    A
+                  
+                    12BTE65
+                  
+                    EMERGING TECHNOLOGIES
+                  
+                    A
+                  
+                    12BT6CX
+                  
+                    ELECTIVE C
+                  
+                    B
+                  
+                    12BT6DX
+                  
+                    ELECTIVE D
+                  
+                    A
+                  
+SGPA:
+
+                      8.5
+                    
+#####################################################################
