@@ -1,0 +1,320 @@
+
+USN:
+                    1RV13CS001
+                  
+NAME:
+                    AAKANKSHA YADAV
+                  
+BRANCH:
+                    Computer Science and Engineering
+                  
+SEMESTER:
+                    Seventh
+                  
+Grade
+
+                    12CS71
+                  
+                    HIGH PERFORMANCE COMPUTING
+                  
+                    S
+                  
+                    12CS72
+                  
+                    COMPUTER GRAPHICS
+                  
+                    A
+                  
+                    12HSC73
+                  
+                    LEGAL STUDIES AND PROFESSIONAL ETHICS FOR ENGINEERS
+                  
+                    A
+                  
+                    12CS74
+                  
+                    MINOR PROJECT
+                  
+                    S
+                  
+                    12CS7EX
+                  
+                    ELECTIVE E
+                  
+                    S
+                  
+                    12GF7XX
+                  
+                    ELECTIVE F
+                  
+                    A
+                  
+                    12GG7XX
+                  
+                    ELECTIVE G
+                  
+                    A
+                  
+SGPA:
+
+                      9.46
+                    
+#####################################################################NO result for this usn!#####################################################################NO result for this usn!#####################################################################
+USN:
+                    1RV13CS004
+                  
+NAME:
+                    ABHISHEK R HOSMANI
+                  
+BRANCH:
+                    Computer Science and Engineering
+                  
+SEMESTER:
+                    Seventh
+                  
+Grade
+
+                    12CS71
+                  
+                    HIGH PERFORMANCE COMPUTING
+                  
+                    A
+                  
+                    12CS72
+                  
+                    COMPUTER GRAPHICS
+                  
+                    B
+                  
+                    12HSC73
+                  
+                    LEGAL STUDIES AND PROFESSIONAL ETHICS FOR ENGINEERS
+                  
+                    C
+                  
+                    12CS74
+                  
+                    MINOR PROJECT
+                  
+                    S
+                  
+                    12CS7EX
+                  
+                    ELECTIVE E
+                  
+                    A
+                  
+                    12GF7XX
+                  
+                    ELECTIVE F
+                  
+                    A
+                  
+                    12GG7XX
+                  
+                    ELECTIVE G
+                  
+                    A
+                  
+SGPA:
+
+                      8.77
+                    
+#####################################################################
+USN:
+                    1RV13CS005
+                  
+NAME:
+                    ADITHYA K BHARADWAJ
+                  
+BRANCH:
+                    Computer Science and Engineering
+                  
+SEMESTER:
+                    Seventh
+                  
+Grade
+
+                    12CS71
+                  
+                    HIGH PERFORMANCE COMPUTING
+                  
+                    B
+                  
+                    12CS72
+                  
+                    COMPUTER GRAPHICS
+                  
+                    C
+                  
+                    12HSC73
+                  
+                    LEGAL STUDIES AND PROFESSIONAL ETHICS FOR ENGINEERS
+                  
+                    B
+                  
+                    12CS74
+                  
+                    MINOR PROJECT
+                  
+                    A
+                  
+                    12CS7EX
+                  
+                    ELECTIVE E
+                  
+                    B
+                  
+                    12GF7XX
+                  
+                    ELECTIVE F
+                  
+                    B
+                  
+                    12GG7XX
+                  
+                    ELECTIVE G
+                  
+                    A
+                  
+SGPA:
+
+                      8.04
+                    
+#####################################################################NO result for this usn!#####################################################################NO result for this usn!#####################################################################NO result for this usn!#####################################################################
+USN:
+                    1RV13CS009
+                  
+NAME:
+                    ADITYA H SHETTY
+                  
+BRANCH:
+                    Computer Science and Engineering
+                  
+SEMESTER:
+                    Seventh
+                  
+Grade
+
+                    12CS71
+                  
+                    HIGH PERFORMANCE COMPUTING
+                  
+                    B
+                  
+                    12CS72
+                  
+                    COMPUTER GRAPHICS
+                  
+                    B
+                  
+                    12HSC73
+                  
+                    LEGAL STUDIES AND PROFESSIONAL ETHICS FOR ENGINEERS
+                  
+                    C
+                  
+                    12CS74
+                  
+                    MINOR PROJECT
+                  
+                    A
+                  
+                    12CS7EX
+                  
+                    ELECTIVE E
+                  
+                    B
+                  
+                    12GF7XX
+                  
+                    ELECTIVE F
+                  
+                    B
+                  
+                    12GG7XX
+                  
+                    ELECTIVE G
+                  
+                    B
+                  
+SGPA:
+
+                      8.04
+                    
+#####################################################################
+USN:
+
+NAME:
+
+BRANCH:
+
+SEMESTER:
+
+Grade
+
+SGPA:
+
+
+#####################################################################
+USN:
+                    1RV13CS011
+                  
+NAME:
+                    AKASH SHAKDWIPEEA
+                  
+BRANCH:
+                    Computer Science and Engineering
+                  
+SEMESTER:
+                    Seventh
+                  
+Grade
+
+                    12CS71
+                  
+                    HIGH PERFORMANCE COMPUTING
+                  
+                    B
+                  
+                    12CS72
+                  
+                    COMPUTER GRAPHICS
+                  
+                    B
+                  
+                    12HSC73
+                  
+                    LEGAL STUDIES AND PROFESSIONAL ETHICS FOR ENGINEERS
+                  
+                    C
+                  
+                    12CS74
+                  
+                    MINOR PROJECT
+                  
+                    A
+                  
+                    12CS7EX
+                  
+                    ELECTIVE E
+                  
+                    A
+                  
+                    12GF7XX
+                  
+                    ELECTIVE F
+                  
+                    B
+                  
+                    12GG7XX
+                  
+                    ELECTIVE G
+                  
+                    B
+                  
+SGPA:
+
+                      8.19
+                    
+#####################################################################NO result for this usn!#####################################################################NO result for this usn!#####################################################################NO result for this usn!#####################################################################NO result for this usn!#####################################################################NO result for this usn!#####################################################################NO result for this usn!#####################################################################NO result for this usn!

@@ -12,7 +12,7 @@ index = 0
 for i in range(1,210):
 		line = ""
 		index = index + 1
-		usn = '1RV13CV' + '{0:0{width}}'.format(index, width=3)
+		usn = '1RV13CS' + '{0:0{width}}'.format(index, width=3)
 		
 		print usn
 		try:
@@ -20,8 +20,8 @@ for i in range(1,210):
 			browser.open('http://173.255.199.232:8001/results/getresult')
 			browser.select_form(predicate=select_form)
 			browser.form['result[usn]'] = usn
-			browser.form['result[department]'] = ['5687f1b26e95525d0e0000b5',]
-			browser.form['result[sem]'] = ['6',]
+			browser.form['result[department]'] = ['5687f1d86e95525d0e0000b6',]
+			browser.form['result[sem]'] = ['7',]
 			#browser.form['result[year]'] = '2016'
 
 			browser.submit()
@@ -42,14 +42,15 @@ for i in range(1,210):
 				line = line + res
 					
 
-		except: 
+		except Exception as e:
+			print e 
 			print "NO result for this usn!"
-			file = open('scrapresultcv.txt','a+')
+			file = open('7thsem/scrapresultcs7.txt','a+')
 			file.write('NO result for this usn!')	
 
 		
 
-		file = open('scrapresultcv.txt','a+')
+		file = open('7thsem/scrapresultcs7.txt','a+')
 		file.write(line)
 		file.write("#####################################################################")
 
